@@ -53,5 +53,5 @@ Isi dua angka, lalu tekan **Hitung** untuk melihat hasil penjumlahan.
 ```text
 NIM : F1D02410115
 Nama : Kevin Adiwiguna
-Link Repositori GitHub : https://github.com/KevinAdiwiguna/gui-swing-awt
+Link Repositori GitHub : https://github.com/KevinAdiwiguna/Latihan-GUI-F1D202410115
 ```
